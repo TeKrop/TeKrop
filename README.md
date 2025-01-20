@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm TeKrop ! 👋
 
-<!--
-**TeKrop/TeKrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile ! I'm a passionate developer with interests in web development, open-source contributions, and learning new technologies. Below, you'll find more information about me, my skills, and my projects.
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![TeKrop's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeKrop&show_icons=true&theme=transparent&line_height=28)
+![TeKrop's languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=TeKrop&layout=donut&theme=transparent)
+
+## 🌟 Top Projects
+
+Here are some of my most interesting projects:
+
+- ⚡ [**OverFast API**](https://github.com/TeKrop/overfast-api) : Overwatch 2 API providing data about the game and player careers. Technologies used: Python, FastAPI, Redis
+- 🐶 [**Shooting Stars**](https://github.com/TeKrop/shooting-stars-meme-generator) : Shooting Stars Meme Generator using CSS animations. Technologies used: Less, Javascript
+- 🤖 [**Osmose Utility Bot**](https://github.com/TeKrop/osmose-utility-bot) : Discord bot for Osmose Gaming Community. Technologies used: Javascript, Discord.js
+
+## 📫 How to reach me
+
+- Email: [valentin.porchet@proton.me](mailto:valentin.porchet@proton.me)
+- LinkedIn: [@valentinporchet](https://www.linkedin.com/in/valentinporchet/)
