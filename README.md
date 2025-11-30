@@ -4,8 +4,8 @@ Welcome to my GitHub profile ! I'm a passionate developer with interests in web 
 
 ## 📈 GitHub Stats
 
-![TeKrop's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeKrop&show_icons=true&theme=transparent&line_height=28)
-![TeKrop's languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=TeKrop&layout=donut&theme=transparent)
+![TeKrop's GitHub stats](https://github-readme-stats.tekrop.fr/api?username=TeKrop&show_icons=true&theme=transparent&line_height=28)
+![TeKrop's languages stats](https://github-readme-stats.tekrop.fr/api/top-langs?username=TeKrop&layout=donut&theme=transparent)
 
 ## 🌟 Top Projects
 
